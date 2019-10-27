@@ -1,4 +1,4 @@
-# la_county_health_inspection_analysis
+# la county_health_inspection_analysis
 
 The city of Los Angeles publishes data on Environment Health inspection and enforcement results from restaurants in the Los Angeles county. These data cover 85 of 88 cities and all unincorporated areas in the LA county.
 
